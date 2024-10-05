@@ -1,5 +1,11 @@
 # gradio
 
+## 5.0.0-beta.7
+
+### Features
+
+- [#9526](https://github.com/gradio-app/gradio/pull/9526) [`f60bb68`](https://github.com/gradio-app/gradio/commit/f60bb68f52cd0863d9087b3fbc56635e297adef1) - Fix single select dropdown.  Thanks @whitphx!
+
 ## 5.0.0-beta.6
 
 ### Features
